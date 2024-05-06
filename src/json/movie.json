@@ -1,0 +1,25 @@
+[
+    {
+        "index": 1,
+        "movie_image": "https://upload.wikimedia.org/wikipedia/en/a/a7/BrightPoster.jpeg",
+        "name": "Bright",
+        "year_of_release": 2017,
+        "director": "David Ayer",
+        "duration_minutes": 117,
+        "category_name": ["Action", "Crime", "Fantasy"],
+        "about_movie": "Set in a world where fantasy creatures live side by side with humans. A human cop is forced to work with an Orc to find a weapon everyone is prepared to kill for.",
+        "another_image": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABffPAIPjEhT-aDZ2CPJqSvpx5OnrhKOXDYgwT2PIskGUmpJtnTgSHsWnJv84EVD_6XUt0hcgOVdyF2REM8Mvcia5Dx7rLq1QprqQ.jpg?r=b7e"
+    },
+    {
+        "index": 2,
+        "movie_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS18pUQXi2KnDiRTMc4hNVkJ3QyMoFkfKBAPYac8F6Z9yoqIHFqyB67NW0qHkh-zKIalqY&usqp=CAU",
+        "name": "Tomb Raider",
+        "year_of_release": 2018,
+        "director": "Roar Uthaug",
+        "duration_minutes": 125,
+        "category_name": ["Action", "Fantasy"],
+        "about_movie": "Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she finds herself on the island where her father disappeared.",
+        "another_image": "https://ntvb.tmsimg.com/assets/p13061659_v_h8_af.jpg?w=1280&h=720"
+    }
+    
+]
